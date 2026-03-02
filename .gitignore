@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+venv/
+.venv/
+env/
+dist/
+*.egg-info/
+
+# PyCharm/JetBrains
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dictionaries
+
